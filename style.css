@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Verdana,  sans-serif; /* шрифт */
+  font-size: 11pt; /* Размер шрифта  */
+  background-image: url(img/2.jpg); /* Фоновое изображение*/
+  background-repeat: no-repeat; /* Параметры фона*/
+  background-attachment: fixed; /* Фиксация фона*/
+  color: "black"; /* Цвет текста */ 
+  border-left: 5px solid #999; /* Параметры линии слева */
+  border-bottom: 5px solid #999; /* Параметры линии снизу */
+  border-right: 5px solid #999;/* Параметры линии справа*/
+  border-top:   5px solid #999;/* Параметры линии вверху*/
+  margin-left: 60px; /* Отступ слева в пикселах */
+  margin-right: 800px; /* Отступ справа в пикселах */
+  
+  padding-left: 10px; /* Отступ от линии слева до текста  */
+  padding-bottom: 10px; /* Отступ от линии снизу до текста  */
+  padding-right: 50px; /* Отступ от линии справа до текста  */
+  
+}
+h1 {
+  color: "black"; /* Цвет заголовка */
+  font-size: 24pt; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  
+}
+h3 {
+  color: "black"; /* Цвет заголовка */
+  font-size: 15pt; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  
+}
+p {
+  text-align: justify; /* Выравнивание по ширине */
+ 
+  
+}
+.gost {
+    color: #2F4F4F; /* Цвет текста */
+    font-weight: bold; /* Жирное начертание */
+   }
+   IMG.fig {
+    float: right; /* Обтекание картинки по левому краю */
+    padding-left: 50px; /* Отступ слева */
+    padding-bottom: 50px; /* Отступ снизу */
+	padding-right: 10px; /* Отступ справа */
+   }
